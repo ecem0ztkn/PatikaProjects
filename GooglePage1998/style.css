@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-size: smaller;
+    width: 90%;
+    margin: auto;
+}
+
+.bg-color-light{
+    background-color: #EEE;
+}
